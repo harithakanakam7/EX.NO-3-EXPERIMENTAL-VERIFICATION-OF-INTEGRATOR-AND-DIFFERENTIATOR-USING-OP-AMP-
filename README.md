@@ -36,13 +36,11 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
-
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/a226f4d0-8639-4b4b-9b04-cadaef025698" />
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/0e9ee98e-d575-4826-bf67-cdda16915be0" />
 
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
 
 ---
 
@@ -61,15 +59,13 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bcc6238d-c476-42cc-9b03-f07c990e84ad" />
+
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/29ee65b5-0078-4244-b7fa-9f12a04b7f88" />
 
 
 ---
@@ -109,7 +105,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/53a9daf3-5c9a-4d54-a492-8303a9dd88b0" />
 
 
 
@@ -149,13 +145,13 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+![Uploading image.png…]()
+
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7186a0f6-3458-4d3f-8097-ce9bb2713bd9" />
+
 
 ---
 
